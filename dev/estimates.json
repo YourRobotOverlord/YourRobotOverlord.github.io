@@ -5,7 +5,8 @@
       "Client": "Petrochem",
       "SubmissionDeadlineDate": "2078-01-29",
       "SubmissionDeadlineTime": "13:59:59",
-      "Estimator": "Joe Black"
+      "Estimator": "Joe Black",
+      "Image": "https://raw.githubusercontent.com/YourRobotOverlord/YourRobotOverlord.github.io/master/images/m3l_badge.png"
     },
     {
       "Id": "2",
@@ -13,7 +14,8 @@
       "Client": "Petrochem",
       "SubmissionDeadlineDate": "2078-01-30",
       "SubmissionDeadlineTime": "13:59:59",
-      "Estimator": "Joe Black"
+      "Estimator": "Joe Black",
+      "Image": "https://raw.githubusercontent.com/YourRobotOverlord/YourRobotOverlord.github.io/master/images/m3l_badge.png"
     },
     {
       "Id": "3",
@@ -21,6 +23,7 @@
       "Client": "Petrochem",
       "SubmissionDeadlineDate": "2078-01-31",
       "SubmissionDeadlineTime": "13:59:59",
-      "Estimator": "Joe Black"
+      "Estimator": "Joe Black",
+      "Image": "https://raw.githubusercontent.com/YourRobotOverlord/YourRobotOverlord.github.io/master/images/m3l_badge.png"
     }
   ]
