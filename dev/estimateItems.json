@@ -1,35 +1,20 @@
 [
   {
     "Id": "1.0",
-    "Title": "Stripping to Soil Processor"
-    "Quantity": "15000000"
+    "Title": "Stripping to Soil Processor",
+    "Quantity": "15000000",
     "Unit": "m3"
-    "LaborCost": "13.1"
-    "EquipmentCost": "18.82"
-    "MaterialCost": "0.00"
-    "MiscellaneousCost": "0.00"
-    "SubcontractorCost": "34.16"
   },
   {
     "Id": "2.0",
-    "Title": "Growth Soil Processing"
-    "Quantity": "15000000"
+    "Title": "Growth Soil Processing",
+    "Quantity": "15000000",
     "Unit": "m3"
-    "LaborCost": "0.00"
-    "EquipmentCost": "73.18"
-    "MaterialCost": "0.00"
-    "MiscellaneousCost": "0.00"
-    "SubcontractorCost": "89.17"
   },
   {
     "Id": "3.0",
-    "Title": "Soil Seeding (T. Megasuavis)"
-    "Quantity": "15000000"
+    "Title": "Soil Seeding (T. Megasuavis)",
+    "Quantity": "15000000",
     "Unit": "m3"
-    "LaborCost": "13.1"
-    "EquipmentCost": "18.82"
-    "MaterialCost": "0.00"
-    "MiscellaneousCost": "0.00"
-    "SubcontractorCost": "34.16"
   }
 ]
