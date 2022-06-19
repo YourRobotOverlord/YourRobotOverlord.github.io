@@ -7,14 +7,14 @@
   },
   {
     "Id": "2.0",
-    "Title": "Growth Soil Processing",
+    "Title": "Growth Soil Processing c/w Nutrient Enrichment (Biotechnica CHOOO2GROW ONLY)",
     "Quantity": "15000000",
     "Unit": "m3"
   },
   {
     "Id": "3.0",
     "Title": "Soil Seeding (T. Megasuavis)",
-    "Quantity": "15000000",
-    "Unit": "m3"
+    "Quantity": "1",
+    "Unit": "lump sum"
   }
 ]
